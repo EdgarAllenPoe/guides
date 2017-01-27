@@ -68,11 +68,7 @@ of choice. You should see an Ember welcome page and not much
 else. Congratulations! You just created and booted your first Ember
 app.
 
-Let's create a new template using the `ember generate` command.
-
-```sh
-ember generate template application
-```
+An `application` template containing a friendly welcome page has been created for you. To remove this welcome message, remove the `{{welcome-page}}` component from your `application.hbs` file. You'll see this page update soon after! 
 
 The `application` template is always on screen while the user has your
 application loaded. In your editor, open
