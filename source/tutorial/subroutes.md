@@ -205,7 +205,7 @@ export default function() {
         title: "Downtown Charm",
         owner: "Violet Beauregarde",
         city: "Portland",
-        Category: "Apartment",
+        category: "Apartment",
         bedrooms: 3,
         image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg",
         description: "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
